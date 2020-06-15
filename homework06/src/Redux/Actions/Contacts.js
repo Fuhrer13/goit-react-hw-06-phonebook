@@ -9,8 +9,3 @@ export const deleteContacts = (id) => ({
   type: DELETE_CONTACT,
   payload: id,
 });
-
-// export const getLocalStorage = (arr) => ({
-//   type: GET_LOCALSTORAGE,
-//   payload: arr,
-// });

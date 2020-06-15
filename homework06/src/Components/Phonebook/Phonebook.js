@@ -4,7 +4,6 @@ import "react-toastify/dist/ReactToastify.css";
 import "../../Transitions/title.module.css";
 import { useDispatch, useSelector } from "react-redux";
 import { addContact } from "../../Redux/Actions/Contacts";
-// import { addContact } from "../../Modules/Slices/Contacts";
 import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { v4 as uuidv4 } from "uuid";
